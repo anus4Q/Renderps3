@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://github.com/anus4Q/Renderps3/blob/6c7c92314172eabf1752214b9df7f3467622edf4/1764882755018.png">
+        <img height="210px" src="https://github.com/anus4Q/Renderps3/blob/6c7c92314172eabf1752214b9df7f3467622edf4/1764882755018.png" />
+    </a>
+</p>
 
 # RenderPS3 — PS3 Emulator for Android
 
