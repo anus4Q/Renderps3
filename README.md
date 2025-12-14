@@ -9,11 +9,6 @@
 Renderps3 is an early PlayStation 3 emulator for Android written in C++ / java
 supporting games pkg- iso formats
 
-## Key Features
-
-- 🚫 **No ads** — Completely free  
-- 📱 **Mobile-optimized** — Designed for Android devices  
-
 ## Requirements
 
 - Android device with a supported CPU and sufficient RAM  
@@ -34,11 +29,8 @@ When contributing:
 
 Open an Issue before submitting major pull requests.
 
-## Support the Project
-
-RenderPS4 is developed during my personal free time ... Support helps continue development and research.
-
-- **$1,000** Release additional research components as open source
+## source code 
+merged aps3e + rpcsx android And improving every aspect of the application and addressing problems 
 
 ## DISCLAIMER !!
 renderps3 project not affiliated with SONY  It is intended for educational purposes and We are porting.  
